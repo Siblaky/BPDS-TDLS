@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Installation
 Firs, install the project dependencies
 
-npm install
+npm install T_T
 
 ## RUN LOCALLY
 
